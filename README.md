@@ -1,4 +1,3 @@
-# .github
 # Official
 
 [https://www.cyberapesyachtclub.com](https://www.cyberapesyachtclub.com/dyor)
