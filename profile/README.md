@@ -50,3 +50,4 @@ interoperable NFTs in metaverse
 NFT metaverse esports
 play to earn
 multiverse crypto rewards
+[![Views](https://u8views.com/api/v1/github/profiles/170826227/views/day-week-month-total-count.svg)](https://u8views.com/github/UltraKingdoms)
